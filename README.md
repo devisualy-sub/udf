@@ -1,0 +1,5 @@
+# Getting Started
+
+```
+mvn package
+```
